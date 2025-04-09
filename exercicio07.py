@@ -3,4 +3,5 @@ soma=0
 for z in range(1,6,1):
     n = int(input("digite 1 numero: "))
     soma += n
-print(f"o valor total é: {soma/5}")
+divisao = soma/5
+print(f"o valor total é: {divisao}")
